@@ -289,7 +289,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Developer
 
-Built as a BTech final-year project.
+Built as a BTech first-year project.
 
 - **Project**: BGMI Tournament Management System
 - **Contact**: support@bgmitms.com
